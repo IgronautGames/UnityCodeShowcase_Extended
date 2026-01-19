@@ -36,6 +36,9 @@ This repo is designed to:
 ```
 Assets/
 └── Scripts/
+    ├── 🎵 Audio/
+    │   ├── AudioManager.cs                # Plays and adjusts all sounds
+    │   ├── SoundDefinition.cs             # Defines certain sound with different adjustments
     ├── 🧍 Characters/
     │   ├── CarryingVisuals.cs             # Cartoony stacked-item visuals & animation
     │   ├── CharacterCamera.cs             # Cinemachine camera logic per character
